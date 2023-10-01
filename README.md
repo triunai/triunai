@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Khumeren</h1>
-<h3 align="center">A driven developer from Malaysia</h3>
+<h1 align="center">Hey there! 👋, I'm Khumeren</h1>
+<h3 align="center">A driven developer from Rawang, Malaysia</h3>
 
-- 🌱 I’m currently learning **LangChain,Machine Learning,and Python**
+- 🌱 I’m currently learning ----> **LangChain,Machine Learning,and Python**
 
-- 💬 Ask me about **angular, ASP.NET, MSSQL**
+- 💬 You should ask me about ----> **angular, ASP.NET, MSSQL**
 
-- 📫 How to reach me **khumeren@gmail.com**
+- 📫 How to reach me  ----> **khumeren@gmail.com**
 
-- ⚡ Fun fact **I think im occasionally charming**
+- ⚡ Fun fact ---->  **I think im occasionally charming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
