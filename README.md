@@ -5,8 +5,6 @@
 <h5 align="center">💬 You should ask me about ----> angular, ASP.NET, MSSQL</h5>
 <h5 align="center">📫 How to reach me  ----> khumeren@gmail.com</h5>
 <h5 align="center">⚡ Fun fact ---->  I think im occasionally charming</h5>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
