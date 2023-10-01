@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋, I'm Khumeren</h1>
 <h3 align="center">A driven developer from Rawang, Malaysia</h3>
 
-- 🌱 I’m currently learning ----> **LangChain,Machine Learning,and Python**
+<h5 align="center">🌱 I’m currently learning ----> **LangChain,Machine Learning,and Python**</h5>
 
 - 💬 You should ask me about ----> **angular, ASP.NET, MSSQL**
 
