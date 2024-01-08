@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋, I'm Khumeren</h1>
 <h3 align="center">A driven developer from Rawang, Malaysia</h3>
 
-<h5 align="center">🌱 I’m currently learning ----> LangChain,Machine Learning,and Python</h5>
-<h5 align="center">💬 You should ask me about ----> angular, ASP.NET, MSSQL</h5>
+<h5 align="center">🌱 I’m currently learning ----> React Essentials, Advanced ASP.NET, and GSAP or LangChain Soon hopefully </h5>
+<h5 align="center">💬 You should ask me about ---->Angular, ASP.NET, MSSQL</h5>
 <h5 align="center">📫 How to reach me  ----> khumeren@gmail.com</h5>
 <h5 align="center">⚡ Fun fact ---->  I think im occasionally charming</h5>
 <p align="left">
