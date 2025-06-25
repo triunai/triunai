@@ -1,15 +1,19 @@
 name: 🐍 Generate contribution snake
 
 on:
-  # runs every day at 08:00 MYT (00:00 UTC)
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:          # manual “Run” button
+  schedule: [{ cron: "0 0 * * *" }]   # every day 00 UTC  (08 MYT)
+  workflow_dispatch:
 
 jobs:
   snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake SVGs
+      # 1️⃣ get the repo so we can commit back
+      - uses: actions/checkout@v4
+
+      # 2️⃣ generate the SVGs
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -17,11 +21,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit files
+      # 3️⃣ copy to repo root & commit
+      - name: Commit new snake
         run: |
-          mv dist/* .
-          git config --global user.email "actions@github.com"
-          git config --global user.name  "github-actions[bot]"
-          git add github-snake*.svg
-          git commit -m "update snake" || echo "nothing to commit"
-          git push
+          cp -f
