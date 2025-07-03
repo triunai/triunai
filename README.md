@@ -74,7 +74,7 @@ Open to collabs, code reviews, or just nerdy coffee chats ☕.
 | **GasTongz**            | POS for gas distribution—automates invoices & stock      | *Private*                                                |
 | **Golden Trees**        | Engagement website for my cousin (Dundee)                | [🌐 Demo](https://golden-trees.onrender.com/)            |
 | **Celestial Canvas**    | Three.js particle & gradient playground                  | [🌐 Demo](https://celestial-trails-canvas.onrender.com/) |
-| **Deep Research Clone** | Knowledge‑base & investigation repo                      | [📂 GitHub](https://github.com/triunai/)                 |
+| **Deep Research Clone** | Knowledge‑base & investigation repo                      | [📂 GitHub](https://github.com/triunai/DeepResearch-Py)  |
 
 *Collab? Ping me—let’s build something epic!* 🛠️
 
