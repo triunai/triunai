@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-I’m a **fullstack develop** who loves building **end‑to‑end products**—from slick React / Angular front‑ends to battle‑hardened Node & ASP .NET Core back‑ends, peppered with AI ✨ (RAG pipelines, chatbots, vector anomaly detectors with semantic search).
+I’m a **fullstack developer** who loves building **end‑to‑end products**—from slick React / Angular front‑ends to battle‑hardened Node & ASP .NET Core back‑ends, peppered with AI ✨ (RAG pipelines, chatbots, vector anomaly detectors with semantic search).
 
 *💨TL;DR of my toolbox💨:*
 
